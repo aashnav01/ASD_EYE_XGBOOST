@@ -1,0 +1,17 @@
+feature,in_saliency,etsds_mean,actual_imputed_value
+fix_count,True,28.64516129032258,real
+fix_dur_mean_ms,True,338.13634482482814,real
+fix_dur_std_ms,True,269.7493839326558,real
+fix_dur_max_ms,True,1127.105777589131,real
+fix_dur_cv,True,0.7748761365731552,real
+fix_rate_per_min,True,61.47226489650202,real
+fix_dispersion_mean,False,49.62248809860891,49.6225
+fix_seq_norm,True,0.5427680876497285,real
+ifd_mean,True,232.42889509706987,real
+sac_amplitude_mean,False,352.1836308923274,352.1836
+sac_rate_per_min,False,5.893745935985603,5.8937
+sac_fix_ratio,False,0.07432469962384898,0.0743
+blink_dur_mean_ms,False,311495.9064023769,150.0ms (corrected)
+blink_rate_per_min,False,3.9877748233428054,3.9878
+pupil_slope,False,-0.0014388593728505378,-0.0014
+gaze_x_mean,True,632.0454928419683,real

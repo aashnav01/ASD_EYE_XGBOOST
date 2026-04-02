@@ -1,0 +1,17 @@
+Feature,p_value,effect_r
+fix_dur_cv,0.0002,-1.091
+sac_rate_per_min,0.0,-0.815
+blink_rate_per_min,0.0,-0.805
+fix_dur_max_ms,0.0,0.726
+fix_count,0.0,0.696
+fix_seq_norm,0.0,-0.689
+ifd_mean,0.0149,0.682
+fix_rate_per_min,0.0,-0.681
+sac_fix_ratio,0.0,-0.677
+gaze_x_mean,0.0244,-0.638
+fix_dur_std_ms,0.0,0.637
+fix_dur_mean_ms,0.0001,0.625
+pupil_slope,0.0308,0.594
+sac_amplitude_mean,0.0347,0.591
+fix_dispersion_mean,0.0016,0.489
+blink_dur_mean_ms,0.0258,0.346
